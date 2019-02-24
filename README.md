@@ -3,4 +3,4 @@
 Linear Encryptor/Decryptor
 Using the modular equations
 
-E = ax + b (mod m) and D = a^{-1}(x-b)
+E = ax + b (mod m) and D = a^{-1}(x-b) (mod m)
