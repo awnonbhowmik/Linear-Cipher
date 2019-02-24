@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Linear Cipher.cpp
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(94): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Linear Cipher.vcxproj -> C:\Users\awnon\source\repos\Linear Cipher\x64\Debug\Linear Cipher.exe

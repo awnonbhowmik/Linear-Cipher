@@ -1,0 +1,10 @@
+﻿  Linear Cipher.cpp
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\linear cipher\linear cipher.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  Linear Cipher.vcxproj -> C:\Users\awnon\source\repos\Linear Cipher\Debug\Linear Cipher.exe
